@@ -158,7 +158,7 @@
         <label>DeployExample Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>DeployExamples</pluralLabel>
+    <pluralLabel>DeployExampless</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
